@@ -5,3 +5,4 @@ black
 yeallow
 navy blue
 pink
+white
