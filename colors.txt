@@ -1,6 +1,6 @@
 blue
 red
 green
-black
-yellow
-purple
+black 
+yeallow
+navy blue
