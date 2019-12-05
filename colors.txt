@@ -8,3 +8,4 @@ pink
 white
 Orange
 cyan
+Azure
