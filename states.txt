@@ -5,4 +5,5 @@ Arkansas.
 California.
 Colorado.
 Connecticut.
-Delawar
+Delaware
+Illionois
